@@ -1,4 +1,4 @@
-# Temp-Material-RE24
+# Temp-Material-REJ
 
 This folder represents the online appendix for the paper "Deriving Domain Models from User Stories: Human vs. Machines", the tree structure of the directory is the following:
 
