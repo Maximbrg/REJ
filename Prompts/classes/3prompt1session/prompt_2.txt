@@ -1,0 +1,3 @@
+Follow these steps to answer the user question:
+Step 1: Remove the redundant and incorrect classes from those that you received gave based on the categories that you have received.
+Step 2: Conclude your answer with a final list of classes.
