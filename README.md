@@ -70,7 +70,7 @@ This folder represents the online appendix for the paper "Leveraging Machines to
 |      classes.csv # Tables shown in the paper
 |      relationships.csv # Experiment with DoMoBOT tool
 └───NAP # Contains the form that we used for the novices experiment
-      NAP experiment form.docx # Tables shown in the paper
+      NAP experiment form.docx
    
 
 </pre>
