@@ -69,6 +69,7 @@ This folder represents the online appendix for the paper "Leveraging Machines to
 └───Evaluation
 |      classes.csv # Tables shown in the paper
 |      relationships.csv # Experiment with DoMoBOT tool
+       ChatGPT_vs_Mistral__without_filtering.csv # Comperes the two methods without filtering irrelevant relationships
 └───NAP # Contains the form that we used for the novices experiment
       NAP experiment form.docx
    
